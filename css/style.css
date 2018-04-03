@@ -34,3 +34,9 @@ h4{
   color: white;
   background-image: url(/Users/joelbruns/Desktop/projects/Broadway/resources/images/the-flatiron-building.png);
 }
+#footer{
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+  font-size: 11px;
+}
