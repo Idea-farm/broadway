@@ -1,34 +1,36 @@
 body{
   text-align: center;
+  font-family: Helvetica
+}
+#header{
   background-image: url(/Users/joelbruns/Desktop/projects/Broadway/resources/images/the-flatiron-building.png);
-  background-repeat: no-repeat;
-  background-attachment: fixed;
+  vertical-align: top;
 }
 h1{
   font-weight: bold;
   font-size: 70px;
   color: white;
-  font-family: Helvetica;
-}
-header{
-  color: white;
-  font-size: 18px;
-  font-family: Helvetica;
 }
 p{
-  font-family: 18px;
-  font-family: Helvetica;
+  font-family: 14px;
   color: black;
+}
+a{
+  font-size: 16px;
+  color: white;
 }
 h2{
   color: black;
   font-size: 32px;
-  font-family: Helvetica;
   font-weight: bold;
 }
 h3{
   color: black;
   font-size: 23px;
-  font-family: Helvetica;
   font-weight: bold;
+}
+h4{
+  font-size: 23px;
+  color: white;
+  background-image: url(/Users/joelbruns/Desktop/projects/Broadway/resources/images/the-flatiron-building.png);
 }
